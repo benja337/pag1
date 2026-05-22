@@ -118,6 +118,3 @@ int main() {
     }
     return 0;
 }
-
-
-este es el mimso codigo que te pase pero sin comentarios no ?
